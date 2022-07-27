@@ -83,7 +83,7 @@ class UserService{
             ...tokens
         };
     }
-    // проверка пользователя на логин (рендеринг на сервере)
+    
     async check(req,res){
 
     }
